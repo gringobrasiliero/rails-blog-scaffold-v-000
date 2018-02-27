@@ -1,6 +1,6 @@
 # Rails Blog
 
-#Putting the following in the command line passes evertthing... Scaffolds are powerful
+#Putting the following in the command line passes everything... Scaffolds are powerful
 rails g scaffold Post title:string description:text --no-test-framework
 ## Instructions
 
